@@ -1,5 +1,5 @@
 {
- "updated": "2026-11-03 16:50 KST",
+ "updated": "2026-11-03 17:09 KST",
  "split": "leaderboard",
  "A": [
   {
@@ -91,6 +91,24 @@
     "taipei": 0.227
    },
    "val": 0.4985
+  },
+  {
+   "nick": "Yang",
+   "tag": "track-a-1",
+   "submissions": 1,
+   "published_at": "2026-11-02T05:50:42Z",
+   "title": "starter recipe",
+   "score": 0.40676666666666667,
+   "low": 0.3932,
+   "high": 0.4145,
+   "per_city": {
+    "seoul": 0.6363333333333333,
+    "busan": 0.18833333333333332,
+    "tokyo": 0.694,
+    "osaka": 0.264,
+    "taipei": 0.251
+   },
+   "val": 0.4975333333333333
   },
   {
    "nick": "Stroopwafel-Seoul",
@@ -219,24 +237,6 @@
    "val": 0.49890000000000007
   },
   {
-   "nick": "cityhunter",
-   "tag": "track-a-1",
-   "submissions": 1,
-   "published_at": "2026-11-01T09:33:06Z",
-   "title": "starter recipe",
-   "score": 0.3990333333333333,
-   "low": 0.3923,
-   "high": 0.4029,
-   "per_city": {
-    "seoul": 0.6216666666666667,
-    "busan": 0.18699999999999997,
-    "tokyo": 0.6956666666666665,
-    "osaka": 0.2806666666666667,
-    "taipei": 0.211
-   },
-   "val": 0.4973666666666667
-  },
-  {
    "nick": "jaehakie",
    "tag": "track-a-1",
    "submissions": 1,
@@ -273,32 +273,42 @@
    "val": 0.49573333333333336
   },
   {
-   "nick": "Yang",
-   "tag": "track-a-1",
-   "submissions": 1,
-   "published_at": "2026-11-02T05:50:42Z",
-   "title": "starter recipe",
-   "problem": "still training"
+   "nick": "cityhunter",
+   "tag": "track-a-2",
+   "submissions": 2,
+   "published_at": "2026-11-03T06:38:27Z",
+   "title": "mixup and no flips, 44,248 curated photos",
+   "score": 0.3887333333333333,
+   "low": 0.3865,
+   "high": 0.3913,
+   "per_city": {
+    "seoul": 0.5976666666666667,
+    "busan": 0.18066666666666667,
+    "tokyo": 0.7276666666666666,
+    "osaka": 0.23666666666666666,
+    "taipei": 0.20133333333333334
+   },
+   "val": 0.48206666666666664
   }
  ],
  "B": [
   {
    "nick": "cityhunter",
-   "tag": "track-b-1",
-   "submissions": 1,
-   "published_at": "2026-11-02T11:04:29Z",
-   "title": "train_b.py as given: ResNet18 224, 4 epochs",
-   "score": 0.3923,
+   "tag": "track-b-2",
+   "submissions": 2,
+   "published_at": "2026-11-03T06:02:14Z",
+   "title": "mobilenet_v3_large at 320 instead of ResNet18 at 224",
+   "score": 0.4135,
    "per_city": {
-    "seoul": 0.628,
-    "busan": 0.159,
-    "tokyo": 0.691,
-    "osaka": 0.217,
-    "taipei": 0.266
+    "seoul": 0.676,
+    "busan": 0.271,
+    "tokyo": 0.715,
+    "osaka": 0.261,
+    "taipei": 0.145
    },
-   "gmacs": 1.814,
-   "parameters": 11174283,
-   "image_size": 224
+   "gmacs": 0.437,
+   "parameters": 4196243,
+   "image_size": 320
   }
  ]
 }
