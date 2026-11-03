@@ -1,6 +1,134 @@
 {
- "updated": "2026-11-03 00:00 KST",
+ "updated": "2026-11-03 14:43 KST",
  "split": "leaderboard",
- "A": [],
- "B": []
+ "A": [
+  {
+   "nick": "Demogom",
+   "tag": "track-a-1",
+   "submissions": 1,
+   "published_at": "2026-10-30T03:22:26Z",
+   "title": "starter recipe",
+   "score": 0.40903333333333336,
+   "low": 0.4,
+   "high": 0.4145,
+   "per_city": {
+    "seoul": 0.628,
+    "busan": 0.19000000000000003,
+    "tokyo": 0.715,
+    "osaka": 0.269,
+    "taipei": 0.24333333333333332
+   },
+   "val": 0.5008333333333334
+  },
+  {
+   "nick": "NOWHEREMAN",
+   "tag": "track-a-1",
+   "submissions": 1,
+   "published_at": "2026-10-30T09:27:13Z",
+   "title": "starter recipe",
+   "score": 0.4022666666666666,
+   "low": 0.3952,
+   "high": 0.4058,
+   "per_city": {
+    "seoul": 0.6166666666666667,
+    "busan": 0.20633333333333334,
+    "tokyo": 0.6906666666666667,
+    "osaka": 0.26566666666666666,
+    "taipei": 0.2316666666666667
+   },
+   "val": 0.4987
+  },
+  {
+   "nick": "0rangg",
+   "tag": "track-a-1",
+   "submissions": 1,
+   "published_at": "2026-10-30T05:21:54Z",
+   "title": "starter recipe",
+   "score": 0.4016333333333333,
+   "low": 0.3923,
+   "high": 0.4068,
+   "per_city": {
+    "seoul": 0.6216666666666667,
+    "busan": 0.19633333333333333,
+    "tokyo": 0.702,
+    "osaka": 0.26866666666666666,
+    "taipei": 0.21933333333333335
+   },
+   "val": 0.5010666666666667
+  },
+  {
+   "nick": "Samba09",
+   "tag": "track-a-1",
+   "submissions": 1,
+   "published_at": "2026-10-29T13:14:58Z",
+   "title": "starter recipe",
+   "score": 0.39936666666666665,
+   "low": 0.3845,
+   "high": 0.4155,
+   "per_city": {
+    "seoul": 0.6216666666666667,
+    "busan": 0.21733333333333335,
+    "tokyo": 0.6796666666666668,
+    "osaka": 0.253,
+    "taipei": 0.22533333333333336
+   },
+   "val": 0.49816666666666665
+  },
+  {
+   "nick": "Lumi",
+   "tag": "track-a-1",
+   "submissions": 1,
+   "published_at": "2026-10-28T17:07:11Z",
+   "title": "Starter recipe",
+   "score": 0.39903333333333335,
+   "low": 0.3971,
+   "high": 0.4019,
+   "per_city": {
+    "seoul": 0.63,
+    "busan": 0.16766666666666666,
+    "tokyo": 0.7003333333333334,
+    "osaka": 0.2753333333333334,
+    "taipei": 0.222
+   },
+   "val": 0.49890000000000007
+  },
+  {
+   "nick": "Dotorimuk",
+   "tag": "track-a-1",
+   "submissions": 1,
+   "published_at": "2026-10-29T11:55:50Z",
+   "title": "starter recipe",
+   "score": 0.3945,
+   "low": 0.3932,
+   "high": 0.3961,
+   "per_city": {
+    "seoul": 0.6153333333333334,
+    "busan": 0.18833333333333335,
+    "tokyo": 0.6906666666666667,
+    "osaka": 0.256,
+    "taipei": 0.22233333333333336
+   },
+   "val": 0.49573333333333336
+  }
+ ],
+ "B": [
+  {
+   "nick": "cityhunter",
+   "tag": "track-b-1",
+   "submissions": 1,
+   "published_at": "2026-11-02T11:04:29Z",
+   "title": "train_b.py as given: ResNet18 224, 4 epochs",
+   "score": 0.3923,
+   "per_city": {
+    "seoul": 0.628,
+    "busan": 0.159,
+    "tokyo": 0.691,
+    "osaka": 0.217,
+    "taipei": 0.266
+   },
+   "gmacs": 1.814,
+   "parameters": 11174283,
+   "image_size": 224
+  }
+ ]
 }
