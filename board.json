@@ -1,7 +1,25 @@
 {
- "updated": "2026-11-03 17:09 KST",
+ "updated": "2026-11-04 00:41 KST",
  "split": "leaderboard",
  "A": [
+  {
+   "nick": "Samba09",
+   "tag": "track-a-2",
+   "submissions": 2,
+   "published_at": "2026-11-03T13:30:04Z",
+   "title": "Balanced sampling + indoor filtering (Busan, Seoul, Tokyo)",
+   "score": 0.42060000000000003,
+   "low": 0.4019,
+   "high": 0.4319,
+   "per_city": {
+    "seoul": 0.6153333333333334,
+    "busan": 0.30433333333333334,
+    "tokyo": 0.6153333333333334,
+    "osaka": 0.306,
+    "taipei": 0.26233333333333336
+   },
+   "val": 0.5101666666666667
+  },
   {
    "nick": "alfzm",
    "tag": "track-a-1",
@@ -93,6 +111,24 @@
    "val": 0.4985
   },
   {
+   "nick": "NOWHEREMAN",
+   "tag": "track-a-2",
+   "submissions": 2,
+   "published_at": "2026-11-03T10:49:28Z",
+   "title": "balance",
+   "score": 0.40776666666666667,
+   "low": 0.3981,
+   "high": 0.4184,
+   "per_city": {
+    "seoul": 0.5750000000000001,
+    "busan": 0.27666666666666667,
+    "tokyo": 0.6263333333333333,
+    "osaka": 0.3076666666666667,
+    "taipei": 0.253
+   },
+   "val": 0.5054333333333333
+  },
+  {
    "nick": "Yang",
    "tag": "track-a-1",
    "submissions": 1,
@@ -127,24 +163,6 @@
     "taipei": 0.219
    },
    "val": 0.49746666666666667
-  },
-  {
-   "nick": "NOWHEREMAN",
-   "tag": "track-a-1",
-   "submissions": 1,
-   "published_at": "2026-10-30T09:27:13Z",
-   "title": "starter recipe",
-   "score": 0.4022666666666666,
-   "low": 0.3952,
-   "high": 0.4058,
-   "per_city": {
-    "seoul": 0.6166666666666667,
-    "busan": 0.20633333333333334,
-    "tokyo": 0.6906666666666667,
-    "osaka": 0.26566666666666666,
-    "taipei": 0.2316666666666667
-   },
-   "val": 0.4987
   },
   {
    "nick": "West Coast Love",
@@ -201,24 +219,6 @@
    "val": 0.49666666666666665
   },
   {
-   "nick": "Samba09",
-   "tag": "track-a-1",
-   "submissions": 1,
-   "published_at": "2026-10-29T13:14:58Z",
-   "title": "starter recipe",
-   "score": 0.39936666666666665,
-   "low": 0.3845,
-   "high": 0.4155,
-   "per_city": {
-    "seoul": 0.6216666666666667,
-    "busan": 0.21733333333333335,
-    "tokyo": 0.6796666666666668,
-    "osaka": 0.253,
-    "taipei": 0.22533333333333336
-   },
-   "val": 0.49816666666666665
-  },
-  {
    "nick": "Lumi",
    "tag": "track-a-1",
    "submissions": 1,
@@ -255,6 +255,24 @@
    "val": 0.4917666666666667
   },
   {
+   "nick": "cityhunter",
+   "tag": "track-a-3",
+   "submissions": 3,
+   "published_at": "2026-11-03T13:54:15Z",
+   "title": "curated photos, starter recipe",
+   "score": 0.39453333333333335,
+   "low": 0.3807,
+   "high": 0.4029,
+   "per_city": {
+    "seoul": 0.6233333333333334,
+    "busan": 0.18833333333333332,
+    "tokyo": 0.6766666666666667,
+    "osaka": 0.2643333333333333,
+    "taipei": 0.221
+   },
+   "val": 0.494
+  },
+  {
    "nick": "Dotorimuk",
    "tag": "track-a-1",
    "submissions": 1,
@@ -271,40 +289,22 @@
     "taipei": 0.22233333333333336
    },
    "val": 0.49573333333333336
-  },
-  {
-   "nick": "cityhunter",
-   "tag": "track-a-2",
-   "submissions": 2,
-   "published_at": "2026-11-03T06:38:27Z",
-   "title": "mixup and no flips, 44,248 curated photos",
-   "score": 0.3887333333333333,
-   "low": 0.3865,
-   "high": 0.3913,
-   "per_city": {
-    "seoul": 0.5976666666666667,
-    "busan": 0.18066666666666667,
-    "tokyo": 0.7276666666666666,
-    "osaka": 0.23666666666666666,
-    "taipei": 0.20133333333333334
-   },
-   "val": 0.48206666666666664
   }
  ],
  "B": [
   {
    "nick": "cityhunter",
-   "tag": "track-b-2",
-   "submissions": 2,
-   "published_at": "2026-11-03T06:02:14Z",
-   "title": "mobilenet_v3_large at 320 instead of ResNet18 at 224",
-   "score": 0.4135,
+   "tag": "track-b-3",
+   "submissions": 3,
+   "published_at": "2026-11-03T13:55:25Z",
+   "title": "mobilenet_v3_large at 320, 10 epochs",
+   "score": 0.4386,
    "per_city": {
-    "seoul": 0.676,
-    "busan": 0.271,
-    "tokyo": 0.715,
-    "osaka": 0.261,
-    "taipei": 0.145
+    "seoul": 0.652,
+    "busan": 0.304,
+    "tokyo": 0.758,
+    "osaka": 0.324,
+    "taipei": 0.155
    },
    "gmacs": 0.437,
    "parameters": 4196243,
