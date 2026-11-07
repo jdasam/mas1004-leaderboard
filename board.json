@@ -1,5 +1,5 @@
 {
- "updated": "2026-11-07 01:44 KST",
+ "updated": "2026-11-08 02:27 KST",
  "split": "leaderboard",
  "A": [
   {
@@ -39,24 +39,6 @@
    "val": 0.5083666666666667
   },
   {
-   "nick": "NOWHEREMAN",
-   "tag": "track-a-5",
-   "submissions": 5,
-   "published_at": "2026-11-06T14:22:29Z",
-   "title": "s2v",
-   "score": 0.4180333333333333,
-   "low": 0.4019,
-   "high": 0.4271,
-   "per_city": {
-    "seoul": 0.5896666666666667,
-    "busan": 0.26733333333333337,
-    "tokyo": 0.652,
-    "osaka": 0.285,
-    "taipei": 0.29633333333333334
-   },
-   "val": 0.5053333333333333
-  },
-  {
    "nick": "stroopwafel123",
    "tag": "track-a-2",
    "submissions": 2,
@@ -75,22 +57,40 @@
    "val": 0.5031333333333333
   },
   {
-   "nick": "uia99",
-   "tag": "track-a-2",
+   "nick": "slowwbluee",
+   "tag": "track-a-3",
    "submissions": 2,
-   "published_at": "2026-11-05T10:31:31Z",
-   "title": "balanced ",
-   "score": 0.41030000000000005,
+   "published_at": "2026-11-07T13:22:47Z",
+   "title": "every city drawn equally often",
+   "score": 0.4109333333333334,
    "low": 0.4019,
-   "high": 0.4193,
+   "high": 0.4203,
    "per_city": {
-    "seoul": 0.5733333333333333,
-    "busan": 0.25766666666666665,
-    "tokyo": 0.6136666666666667,
-    "osaka": 0.3253333333333333,
-    "taipei": 0.2816666666666667
+    "seoul": 0.5636666666666666,
+    "busan": 0.28633333333333333,
+    "tokyo": 0.6396666666666667,
+    "osaka": 0.311,
+    "taipei": 0.25433333333333336
    },
-   "val": 0.5019666666666667
+   "val": 0.5053333333333333
+  },
+  {
+   "nick": "NOWHEREMAN",
+   "tag": "track-a-6",
+   "submissions": 6,
+   "published_at": "2026-11-07T13:22:55Z",
+   "title": "weight-color",
+   "score": 0.4097,
+   "low": 0.401,
+   "high": 0.4155,
+   "per_city": {
+    "seoul": 0.5443333333333333,
+    "busan": 0.23199999999999998,
+    "tokyo": 0.6636666666666667,
+    "osaka": 0.3333333333333333,
+    "taipei": 0.2753333333333334
+   },
+   "val": 0.5064333333333333
   },
   {
    "nick": "Demogom",
@@ -111,40 +111,22 @@
    "val": 0.5008333333333334
   },
   {
-   "nick": "slowwbluee",
-   "tag": "track-a-1",
-   "submissions": 1,
-   "published_at": "2026-10-29T14:50:10Z",
-   "title": "starter recipe",
-   "score": 0.4087,
-   "low": 0.3952,
-   "high": 0.4203,
-   "per_city": {
-    "seoul": 0.6263333333333333,
-    "busan": 0.20099999999999998,
-    "tokyo": 0.71,
-    "osaka": 0.282,
-    "taipei": 0.224
-   },
-   "val": 0.5011333333333333
-  },
-  {
    "nick": "mas714",
-   "tag": "track-a-1",
-   "submissions": 1,
-   "published_at": "2026-10-30T11:30:41Z",
-   "title": "starter recipe",
-   "score": 0.40806666666666663,
-   "low": 0.3971,
-   "high": 0.4155,
+   "tag": "track-a-2",
+   "submissions": 2,
+   "published_at": "2026-11-07T08:54:35Z",
+   "title": "Balanced sampling - best Track A result",
+   "score": 0.4080333333333333,
+   "low": 0.4019,
+   "high": 0.4193,
    "per_city": {
-    "seoul": 0.6263333333333333,
-    "busan": 0.20433333333333334,
-    "tokyo": 0.71,
-    "osaka": 0.2723333333333333,
-    "taipei": 0.227
+    "seoul": 0.5750000000000001,
+    "busan": 0.2866666666666667,
+    "tokyo": 0.649,
+    "osaka": 0.29333333333333333,
+    "taipei": 0.23666666666666666
    },
-   "val": 0.4985
+   "val": 0.5029666666666667
   },
   {
    "nick": "cityhunter",
@@ -199,6 +181,24 @@
     "taipei": 0.20933333333333334
    },
    "val": 0.49160000000000004
+  },
+  {
+   "nick": "uia99",
+   "tag": "track-a-3",
+   "submissions": 3,
+   "published_at": "2026-11-07T13:50:06Z",
+   "title": "balanced zoom+lr",
+   "score": 0.40323333333333333,
+   "low": 0.3971,
+   "high": 0.4145,
+   "per_city": {
+    "seoul": 0.5459999999999999,
+    "busan": 0.2753333333333334,
+    "tokyo": 0.6103333333333333,
+    "osaka": 0.3026666666666667,
+    "taipei": 0.28200000000000003
+   },
+   "val": 0.5090666666666667
   },
   {
    "nick": "Stroopwafel-Seoul",
@@ -311,24 +311,6 @@
    "image_size": 320
   },
   {
-   "nick": "Samba09",
-   "tag": "track-b-2",
-   "submissions": 2,
-   "published_at": "2026-11-06T11:45:17Z",
-   "title": "Track B - V2 (Validation: 0.566)",
-   "score": 0.4329,
-   "per_city": {
-    "seoul": 0.647,
-    "busan": 0.319,
-    "tokyo": 0.71,
-    "osaka": 0.353,
-    "taipei": 0.135
-   },
-   "gmacs": 0.627,
-   "parameters": 4196243,
-   "image_size": 384
-  },
-  {
    "nick": "NOWHEREMAN",
    "tag": "track-b-2",
    "submissions": 1,
@@ -347,6 +329,42 @@
    "image_size": 448
   },
   {
+   "nick": "Samba09",
+   "tag": "track-b-3",
+   "submissions": 3,
+   "published_at": "2026-11-07T12:28:43Z",
+   "title": "Track B - V3 (Validation: 0.5598)",
+   "score": 0.4261,
+   "per_city": {
+    "seoul": 0.662,
+    "busan": 0.28,
+    "tokyo": 0.72,
+    "osaka": 0.333,
+    "taipei": 0.135
+   },
+   "gmacs": 0.627,
+   "parameters": 4196243,
+   "image_size": 384
+  },
+  {
+   "nick": "0rangg",
+   "tag": "track-b-2",
+   "submissions": 2,
+   "published_at": "2026-11-07T13:31:30Z",
+   "title": "balanced + extra photos",
+   "score": 0.4174,
+   "per_city": {
+    "seoul": 0.551,
+    "busan": 0.285,
+    "tokyo": 0.633,
+    "osaka": 0.285,
+    "taipei": 0.333
+   },
+   "gmacs": 1.814,
+   "parameters": 11174283,
+   "image_size": 224
+  },
+  {
    "nick": "Yang",
    "tag": "track-b-1",
    "submissions": 1,
@@ -359,24 +377,6 @@
     "tokyo": 0.7,
     "osaka": 0.237,
     "taipei": 0.222
-   },
-   "gmacs": 1.814,
-   "parameters": 11174283,
-   "image_size": 224
-  },
-  {
-   "nick": "0rangg",
-   "tag": "track-b-1",
-   "submissions": 1,
-   "published_at": "2026-11-06T04:53:58Z",
-   "title": "B starter",
-   "score": 0.3932,
-   "per_city": {
-    "seoul": 0.628,
-    "busan": 0.169,
-    "tokyo": 0.705,
-    "osaka": 0.261,
-    "taipei": 0.203
    },
    "gmacs": 1.814,
    "parameters": 11174283,
