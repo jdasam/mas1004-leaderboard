@@ -1,5 +1,5 @@
 {
- "updated": "2026-11-10 19:14 KST",
+ "updated": "2026-11-10 19:23 KST",
  "split": "leaderboard",
  "A": [
   {
@@ -201,24 +201,6 @@
    "val": 0.5023666666666666
   },
   {
-   "nick": "Yang",
-   "tag": "track-a-1",
-   "submissions": 1,
-   "published_at": "2026-11-02T05:50:42Z",
-   "title": "starter recipe",
-   "score": 0.40676666666666667,
-   "low": 0.3932,
-   "high": 0.4145,
-   "per_city": {
-    "seoul": 0.6363333333333333,
-    "busan": 0.18833333333333332,
-    "tokyo": 0.694,
-    "osaka": 0.264,
-    "taipei": 0.251
-   },
-   "val": 0.4975333333333333
-  },
-  {
    "nick": "\ud5c8\ub2c8\uba38\uc2a4\ud0c0\ub4dc",
    "tag": "track-a-1",
    "submissions": 1,
@@ -325,6 +307,24 @@
     "taipei": 0.23500000000000001
    },
    "val": 0.49710000000000004
+  },
+  {
+   "nick": "veutetre",
+   "tag": "track-a-2",
+   "submissions": 1,
+   "published_at": "2026-11-10T04:43:54Z",
+   "title": "Equal city sampling",
+   "score": 0.3993666666666667,
+   "low": 0.3865,
+   "high": 0.4106,
+   "per_city": {
+    "seoul": 0.5569999999999999,
+    "busan": 0.23700000000000002,
+    "tokyo": 0.646,
+    "osaka": 0.298,
+    "taipei": 0.25933333333333336
+   },
+   "val": 0.5049333333333333
   },
   {
    "nick": "Demogom",
@@ -443,11 +443,11 @@
    "problem": "still training"
   },
   {
-   "nick": "veutetre",
+   "nick": "Yang",
    "tag": "track-a-2",
-   "submissions": 1,
-   "published_at": "2026-11-10T04:43:54Z",
-   "title": "Equal city sampling",
+   "submissions": 2,
+   "published_at": "2026-11-10T06:10:54Z",
+   "title": "\uc88c\uc6b0\ubc18\uc804",
    "problem": "still training"
   }
  ],
