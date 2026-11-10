@@ -1,5 +1,5 @@
 {
- "updated": "2026-11-10 17:35 KST",
+ "updated": "2026-11-10 17:45 KST",
  "split": "leaderboard",
  "A": [
   {
@@ -183,6 +183,24 @@
    "val": 0.4975333333333333
   },
   {
+   "nick": "\ud5c8\ub2c8\uba38\uc2a4\ud0c0\ub4dc",
+   "tag": "track-a-1",
+   "submissions": 1,
+   "published_at": "2026-11-06T07:18:00Z",
+   "title": "starter recipe",
+   "score": 0.4051666666666667,
+   "low": 0.401,
+   "high": 0.4087,
+   "per_city": {
+    "seoul": 0.6233333333333334,
+    "busan": 0.20433333333333334,
+    "tokyo": 0.7053333333333334,
+    "osaka": 0.27199999999999996,
+    "taipei": 0.22066666666666668
+   },
+   "val": 0.49829999999999997
+  },
+  {
    "nick": "alfzm",
    "tag": "track-a-3",
    "submissions": 2,
@@ -325,10 +343,10 @@
    "problem": "still training"
   },
   {
-   "nick": "\ud5c8\ub2c8\uba38\uc2a4\ud0c0\ub4dc",
+   "nick": "RomanJacketMan",
    "tag": "track-a-1",
    "submissions": 1,
-   "published_at": "2026-11-06T07:18:00Z",
+   "published_at": "2026-11-08T15:53:48Z",
    "title": "starter recipe",
    "problem": "still training"
   }
