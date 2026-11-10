@@ -1,5 +1,5 @@
 {
- "updated": "2026-11-10 18:04 KST",
+ "updated": "2026-11-10 18:13 KST",
  "split": "leaderboard",
  "A": [
   {
@@ -309,6 +309,24 @@
    "val": 0.4962
   },
   {
+   "nick": "yosam",
+   "tag": "track-a-1",
+   "submissions": 1,
+   "published_at": "2026-11-09T04:51:19Z",
+   "title": "starter recipe",
+   "score": 0.3935666666666667,
+   "low": 0.3778,
+   "high": 0.4039,
+   "per_city": {
+    "seoul": 0.5813333333333334,
+    "busan": 0.21433333333333335,
+    "tokyo": 0.705,
+    "osaka": 0.256,
+    "taipei": 0.211
+   },
+   "val": 0.49900000000000005
+  },
+  {
    "nick": "clean23",
    "tag": "track-a-1",
    "submissions": 1,
@@ -361,11 +379,11 @@
    "problem": "still training"
   },
   {
-   "nick": "yosam",
-   "tag": "track-a-1",
+   "nick": "rokafsogang",
+   "tag": "track-a-3",
    "submissions": 1,
-   "published_at": "2026-11-09T04:51:19Z",
-   "title": "starter recipe",
+   "published_at": "2026-11-09T11:58:28Z",
+   "title": "balanced + dropped 115 suspect photos",
    "problem": "still training"
   }
  ],
