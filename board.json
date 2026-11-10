@@ -1,5 +1,5 @@
 {
- "updated": "2026-11-10 17:45 KST",
+ "updated": "2026-11-10 17:54 KST",
  "split": "leaderboard",
  "A": [
   {
@@ -201,6 +201,24 @@
    "val": 0.49829999999999997
   },
   {
+   "nick": "RomanJacketMan",
+   "tag": "track-a-1",
+   "submissions": 1,
+   "published_at": "2026-11-08T15:53:48Z",
+   "title": "starter recipe",
+   "score": 0.40420000000000006,
+   "low": 0.3894,
+   "high": 0.4135,
+   "per_city": {
+    "seoul": 0.6086666666666667,
+    "busan": 0.21433333333333335,
+    "tokyo": 0.699,
+    "osaka": 0.26233333333333336,
+    "taipei": 0.237
+   },
+   "val": 0.49889999999999995
+  },
+  {
    "nick": "alfzm",
    "tag": "track-a-3",
    "submissions": 2,
@@ -340,14 +358,6 @@
    "submissions": 1,
    "published_at": "2026-11-09T15:51:40Z",
    "title": "balanced sampling",
-   "problem": "still training"
-  },
-  {
-   "nick": "RomanJacketMan",
-   "tag": "track-a-1",
-   "submissions": 1,
-   "published_at": "2026-11-08T15:53:48Z",
-   "title": "starter recipe",
    "problem": "still training"
   }
  ],
