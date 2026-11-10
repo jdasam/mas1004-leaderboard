@@ -1,5 +1,5 @@
 {
- "updated": "2026-11-10 21:16 KST",
+ "updated": "2026-11-10 21:22 KST",
  "split": "leaderboard",
  "A": [
   {
@@ -37,6 +37,24 @@
     "taipei": 0.2866666666666667
    },
    "val": 0.5125666666666667
+  },
+  {
+   "nick": "Demogom",
+   "tag": "track-a-4",
+   "submissions": 4,
+   "published_at": "2026-11-10T11:59:03Z",
+   "title": "city bias fixed at the end: 0.5098 validation, +0.011 over the starter",
+   "score": 0.41966666666666663,
+   "low": 0.4039,
+   "high": 0.43,
+   "per_city": {
+    "seoul": 0.5333333333333333,
+    "busan": 0.322,
+    "tokyo": 0.617,
+    "osaka": 0.34600000000000003,
+    "taipei": 0.2803333333333333
+   },
+   "val": 0.5163666666666668
   },
   {
    "nick": "0rangg",
@@ -505,14 +523,6 @@
     "taipei": 0.23966666666666667
    },
    "val": 0.49713333333333337
-  },
-  {
-   "nick": "Demogom",
-   "tag": "track-a-4",
-   "submissions": 4,
-   "published_at": "2026-11-10T11:59:03Z",
-   "title": "city bias fixed at the end: 0.5098 validation, +0.011 over the starter",
-   "problem": "still training"
   }
  ],
  "B": [
