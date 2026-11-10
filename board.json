@@ -1,5 +1,5 @@
 {
- "updated": "2026-11-10 03:14 KST",
+ "updated": "2026-11-10 15:06 KST",
  "split": "leaderboard",
  "A": [
   {
@@ -319,24 +319,6 @@
    "image_size": 300
   },
   {
-   "nick": "Dotorimuk",
-   "tag": "track-b-2",
-   "submissions": 2,
-   "published_at": "2026-11-08T17:12:39Z",
-   "title": "MobileNetV3-Large at 320",
-   "score": 0.4415,
-   "per_city": {
-    "seoul": 0.667,
-    "busan": 0.266,
-    "tokyo": 0.758,
-    "osaka": 0.314,
-    "taipei": 0.203
-   },
-   "gmacs": 0.437,
-   "parameters": 4196243,
-   "image_size": 320
-  },
-  {
    "nick": "cityhunter",
    "tag": "track-b-3",
    "submissions": 3,
@@ -373,6 +355,24 @@
    "image_size": 448
   },
   {
+   "nick": "Dotorimuk",
+   "tag": "track-b-3",
+   "submissions": 3,
+   "published_at": "2026-11-10T01:48:45Z",
+   "title": "MobileNetV3-Large at 320, cities balanced",
+   "score": 0.4357,
+   "per_city": {
+    "seoul": 0.705,
+    "busan": 0.314,
+    "tokyo": 0.696,
+    "osaka": 0.29,
+    "taipei": 0.174
+   },
+   "gmacs": 0.437,
+   "parameters": 4196243,
+   "image_size": 320
+  },
+  {
    "nick": "slowwbluee",
    "tag": "track-b-2",
    "submissions": 1,
@@ -389,6 +389,42 @@
    "gmacs": 0.437,
    "parameters": 4196243,
    "image_size": 320
+  },
+  {
+   "nick": "Lumi",
+   "tag": "track-b-2",
+   "submissions": 2,
+   "published_at": "2026-11-10T05:39:24Z",
+   "title": "MobileNetV3-Large at 512",
+   "score": 0.4319,
+   "per_city": {
+    "seoul": 0.729,
+    "busan": 0.275,
+    "tokyo": 0.734,
+    "osaka": 0.28,
+    "taipei": 0.14
+   },
+   "gmacs": 1.113,
+   "parameters": 4196243,
+   "image_size": 512
+  },
+  {
+   "nick": "Stroopwafel-Seoul",
+   "tag": "track-b-3",
+   "submissions": 2,
+   "published_at": "2026-11-10T02:16:43Z",
+   "title": "MobileNetV3 512 8 epochs balanced",
+   "score": 0.428,
+   "per_city": {
+    "seoul": 0.647,
+    "busan": 0.3,
+    "tokyo": 0.729,
+    "osaka": 0.309,
+    "taipei": 0.155
+   },
+   "gmacs": 1.113,
+   "parameters": 4196243,
+   "image_size": 512
   },
   {
    "nick": "0rangg",
@@ -425,24 +461,6 @@
    "gmacs": 1.814,
    "parameters": 11174283,
    "image_size": 224
-  },
-  {
-   "nick": "Stroopwafel-Seoul",
-   "tag": "track-b-2",
-   "submissions": 1,
-   "published_at": "2026-11-09T14:42:20Z",
-   "title": "MobileNetV3 448 6 epochs balanced",
-   "score": 0.4232,
-   "per_city": {
-    "seoul": 0.618,
-    "busan": 0.343,
-    "tokyo": 0.7,
-    "osaka": 0.319,
-    "taipei": 0.135
-   },
-   "gmacs": 0.853,
-   "parameters": 4196243,
-   "image_size": 448
   },
   {
    "nick": "stroopwafel123",
@@ -511,24 +529,6 @@
     "tokyo": 0.72,
     "osaka": 0.271,
     "taipei": 0.232
-   },
-   "gmacs": 1.814,
-   "parameters": 11174283,
-   "image_size": 224
-  },
-  {
-   "nick": "Lumi",
-   "tag": "track-b-1",
-   "submissions": 1,
-   "published_at": "2026-11-09T13:48:20Z",
-   "title": "starter ResNet18, 4 epochs",
-   "score": 0.3894,
-   "per_city": {
-    "seoul": 0.609,
-    "busan": 0.179,
-    "tokyo": 0.696,
-    "osaka": 0.198,
-    "taipei": 0.266
    },
    "gmacs": 1.814,
    "parameters": 11174283,
