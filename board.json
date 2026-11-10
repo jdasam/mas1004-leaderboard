@@ -1,5 +1,5 @@
 {
- "updated": "2026-11-10 19:36 KST",
+ "updated": "2026-11-10 19:46 KST",
  "split": "leaderboard",
  "A": [
   {
@@ -435,29 +435,19 @@
    "val": 0.49713333333333337
   },
   {
-   "nick": "Stroopwafel-Seoul",
-   "tag": "track-a-3",
-   "submissions": 2,
-   "published_at": "2026-11-09T14:41:36Z",
-   "title": "Balanced + EMA",
-   "score": 0.3694,
-   "low": 0.3594,
-   "high": 0.3778,
-   "per_city": {
-    "seoul": 0.5816666666666667,
-    "busan": 0.09500000000000001,
-    "tokyo": 0.644,
-    "osaka": 0.3026666666666667,
-    "taipei": 0.22399999999999998
-   },
-   "val": 0.4932
-  },
-  {
    "nick": "NOWHEREMAN",
    "tag": "track-a-8",
    "submissions": 8,
    "published_at": "2026-11-10T01:16:37Z",
    "title": "s2v",
+   "problem": "still training"
+  },
+  {
+   "nick": "Stroopwafel-Seoul",
+   "tag": "track-a-5",
+   "submissions": 3,
+   "published_at": "2026-11-10T06:55:02Z",
+   "title": "Balanced, no label smoothing, all photos",
    "problem": "still training"
   }
  ],
