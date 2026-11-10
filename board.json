@@ -1,5 +1,5 @@
 {
- "updated": "2026-11-10 15:06 KST",
+ "updated": "2026-11-10 16:15 KST",
  "split": "leaderboard",
  "A": [
   {
@@ -57,6 +57,24 @@
    "val": 0.5083666666666667
   },
   {
+   "nick": "Lumi",
+   "tag": "track-a-2",
+   "submissions": 2,
+   "published_at": "2026-11-09T15:15:19Z",
+   "title": "every city drawn equally often",
+   "score": 0.41383333333333333,
+   "low": 0.3981,
+   "high": 0.4357,
+   "per_city": {
+    "seoul": 0.5506666666666667,
+    "busan": 0.29133333333333333,
+    "tokyo": 0.638,
+    "osaka": 0.3093333333333333,
+    "taipei": 0.2803333333333333
+   },
+   "val": 0.5037
+  },
+  {
    "nick": "stroopwafel123",
    "tag": "track-a-3",
    "submissions": 3,
@@ -91,24 +109,6 @@
     "taipei": 0.25433333333333336
    },
    "val": 0.5053333333333333
-  },
-  {
-   "nick": "Dotorimuk",
-   "tag": "track-a-2",
-   "submissions": 2,
-   "published_at": "2026-11-07T16:52:25Z",
-   "title": "dropped 174 car close-up photos",
-   "score": 0.41,
-   "low": 0.401,
-   "high": 0.4213,
-   "per_city": {
-    "seoul": 0.6406666666666667,
-    "busan": 0.19166666666666665,
-    "tokyo": 0.699,
-    "osaka": 0.266,
-    "taipei": 0.25266666666666665
-   },
-   "val": 0.49806666666666666
   },
   {
    "nick": "mas714",
@@ -165,6 +165,24 @@
    "val": 0.4975333333333333
   },
   {
+   "nick": "Dotorimuk",
+   "tag": "track-a-3",
+   "submissions": 3,
+   "published_at": "2026-11-10T01:47:26Z",
+   "title": "dropped 1672 non-street photos and 174 car close-ups",
+   "score": 0.40420000000000006,
+   "low": 0.3971,
+   "high": 0.4087,
+   "per_city": {
+    "seoul": 0.5943333333333333,
+    "busan": 0.22399999999999998,
+    "tokyo": 0.707,
+    "osaka": 0.26566666666666666,
+    "taipei": 0.23033333333333336
+   },
+   "val": 0.4995
+  },
+  {
    "nick": "alfzm",
    "tag": "track-a-3",
    "submissions": 2,
@@ -219,40 +237,22 @@
    "val": 0.49710000000000004
   },
   {
-   "nick": "Lumi",
-   "tag": "track-a-1",
-   "submissions": 1,
-   "published_at": "2026-10-28T17:07:11Z",
-   "title": "Starter recipe",
-   "score": 0.39903333333333335,
-   "low": 0.3971,
-   "high": 0.4019,
-   "per_city": {
-    "seoul": 0.63,
-    "busan": 0.16766666666666666,
-    "tokyo": 0.7003333333333334,
-    "osaka": 0.2753333333333334,
-    "taipei": 0.222
-   },
-   "val": 0.49890000000000007
-  },
-  {
    "nick": "Demogom",
-   "tag": "track-a-2",
-   "submissions": 2,
-   "published_at": "2026-11-09T13:07:26Z",
-   "title": "moving average of the weights",
-   "score": 0.3909666666666667,
-   "low": 0.3884,
-   "high": 0.3942,
+   "tag": "track-a-3",
+   "submissions": 3,
+   "published_at": "2026-11-10T01:39:45Z",
+   "title": "starter recipe again: the moving average helped validation but not the leaderboard",
+   "score": 0.3980333333333333,
+   "low": 0.3758,
+   "high": 0.4164,
    "per_city": {
-    "seoul": 0.604,
-    "busan": 0.19633333333333333,
-    "tokyo": 0.7246666666666667,
-    "osaka": 0.20766666666666667,
-    "taipei": 0.22233333333333336
+    "seoul": 0.6186666666666666,
+    "busan": 0.17400000000000002,
+    "tokyo": 0.694,
+    "osaka": 0.26233333333333336,
+    "taipei": 0.24133333333333332
    },
-   "val": 0.4988333333333333
+   "val": 0.4962
   },
   {
    "nick": "Stroopwafel-Seoul",
