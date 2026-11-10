@@ -1,5 +1,5 @@
 {
- "updated": "2026-11-10 22:01 KST",
+ "updated": "2026-11-10 22:11 KST",
  "split": "leaderboard",
  "A": [
   {
@@ -109,6 +109,24 @@
     "taipei": 0.26566666666666666
    },
    "val": 0.5033666666666666
+  },
+  {
+   "nick": "ogmti",
+   "tag": "track-a-2",
+   "submissions": 2,
+   "published_at": "2026-11-10T12:47:41Z",
+   "title": "balanced sampling",
+   "score": 0.41386666666666666,
+   "low": 0.399,
+   "high": 0.4213,
+   "per_city": {
+    "seoul": 0.588,
+    "busan": 0.2836666666666667,
+    "tokyo": 0.6166666666666667,
+    "osaka": 0.31066666666666665,
+    "taipei": 0.2703333333333333
+   },
+   "val": 0.5019
   },
   {
    "nick": "Lumi",
@@ -505,14 +523,6 @@
     "taipei": 0.23966666666666667
    },
    "val": 0.49713333333333337
-  },
-  {
-   "nick": "ogmti",
-   "tag": "track-a-2",
-   "submissions": 2,
-   "published_at": "2026-11-10T12:47:41Z",
-   "title": "balanced sampling",
-   "problem": "still training"
   }
  ],
  "B": [
