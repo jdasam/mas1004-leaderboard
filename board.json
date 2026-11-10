@@ -1,5 +1,5 @@
 {
- "updated": "2026-11-10 16:31 KST",
+ "updated": "2026-11-10 16:54 KST",
  "split": "leaderboard",
  "A": [
   {
@@ -93,6 +93,24 @@
    "val": 0.5037666666666667
   },
   {
+   "nick": "Dotorimuk",
+   "tag": "track-a-4",
+   "submissions": 4,
+   "published_at": "2026-11-10T06:24:20Z",
+   "title": "cities balanced, on top of 1846 dropped photos",
+   "score": 0.4115666666666667,
+   "low": 0.399,
+   "high": 0.428,
+   "per_city": {
+    "seoul": 0.5666666666666668,
+    "busan": 0.269,
+    "tokyo": 0.6506666666666666,
+    "osaka": 0.29,
+    "taipei": 0.282
+   },
+   "val": 0.5090666666666667
+  },
+  {
    "nick": "slowwbluee",
    "tag": "track-a-3",
    "submissions": 2,
@@ -163,24 +181,6 @@
     "taipei": 0.251
    },
    "val": 0.4975333333333333
-  },
-  {
-   "nick": "Dotorimuk",
-   "tag": "track-a-3",
-   "submissions": 3,
-   "published_at": "2026-11-10T01:47:26Z",
-   "title": "dropped 1672 non-street photos and 174 car close-ups",
-   "score": 0.40420000000000006,
-   "low": 0.3971,
-   "high": 0.4087,
-   "per_city": {
-    "seoul": 0.5943333333333333,
-    "busan": 0.22399999999999998,
-    "tokyo": 0.707,
-    "osaka": 0.26566666666666666,
-    "taipei": 0.23033333333333336
-   },
-   "val": 0.4995
   },
   {
    "nick": "alfzm",
@@ -278,6 +278,14 @@
    "submissions": 8,
    "published_at": "2026-11-10T01:16:37Z",
    "title": "s2v",
+   "problem": "still training"
+  },
+  {
+   "nick": "FamishedRook871",
+   "tag": "track-a-2",
+   "submissions": 1,
+   "published_at": "2026-11-09T15:51:40Z",
+   "title": "balanced sampling",
    "problem": "still training"
   }
  ],
