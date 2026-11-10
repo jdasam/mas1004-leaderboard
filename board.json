@@ -1,5 +1,5 @@
 {
- "updated": "2026-11-10 19:23 KST",
+ "updated": "2026-11-10 19:36 KST",
  "split": "leaderboard",
  "A": [
   {
@@ -309,6 +309,24 @@
    "val": 0.49710000000000004
   },
   {
+   "nick": "Yang",
+   "tag": "track-a-2",
+   "submissions": 2,
+   "published_at": "2026-11-10T06:10:54Z",
+   "title": "\uc88c\uc6b0\ubc18\uc804",
+   "score": 0.4003333333333334,
+   "low": 0.3768,
+   "high": 0.4145,
+   "per_city": {
+    "seoul": 0.6296666666666667,
+    "busan": 0.20433333333333334,
+    "tokyo": 0.6826666666666666,
+    "osaka": 0.256,
+    "taipei": 0.22899999999999998
+   },
+   "val": 0.4909666666666667
+  },
+  {
    "nick": "veutetre",
    "tag": "track-a-2",
    "submissions": 1,
@@ -440,14 +458,6 @@
    "submissions": 8,
    "published_at": "2026-11-10T01:16:37Z",
    "title": "s2v",
-   "problem": "still training"
-  },
-  {
-   "nick": "Yang",
-   "tag": "track-a-2",
-   "submissions": 2,
-   "published_at": "2026-11-10T06:10:54Z",
-   "title": "\uc88c\uc6b0\ubc18\uc804",
    "problem": "still training"
   }
  ],
@@ -649,6 +659,24 @@
    "gmacs": 1.113,
    "parameters": 4196243,
    "image_size": 512
+  },
+  {
+   "nick": "West Coast Love",
+   "tag": "track-b-1",
+   "submissions": 1,
+   "published_at": "2026-11-10T10:30:11Z",
+   "title": "MobileNetV3-L 320, balanced cities",
+   "score": 0.43,
+   "per_city": {
+    "seoul": 0.643,
+    "busan": 0.3,
+    "tokyo": 0.72,
+    "osaka": 0.333,
+    "taipei": 0.155
+   },
+   "gmacs": 0.437,
+   "parameters": 4196243,
+   "image_size": 320
   },
   {
    "nick": "Stroopwafel-Seoul",
