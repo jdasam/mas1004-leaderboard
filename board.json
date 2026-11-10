@@ -1,5 +1,5 @@
 {
- "updated": "2026-11-10 18:43 KST",
+ "updated": "2026-11-10 18:53 KST",
  "split": "leaderboard",
  "A": [
   {
@@ -145,6 +145,24 @@
     "taipei": 0.25433333333333336
    },
    "val": 0.5053333333333333
+  },
+  {
+   "nick": "SoSleepy",
+   "tag": "track-a-2",
+   "submissions": 1,
+   "published_at": "2026-11-09T18:05:01Z",
+   "title": "Balanced sampling",
+   "score": 0.4106,
+   "low": 0.4019,
+   "high": 0.4222,
+   "per_city": {
+    "seoul": 0.586,
+    "busan": 0.2836666666666667,
+    "tokyo": 0.6216666666666667,
+    "osaka": 0.29466666666666663,
+    "taipei": 0.26699999999999996
+   },
+   "val": 0.5022333333333333
   },
   {
    "nick": "mas714",
@@ -407,11 +425,11 @@
    "problem": "still training"
   },
   {
-   "nick": "SoSleepy",
-   "tag": "track-a-2",
+   "nick": "ogmti",
+   "tag": "track-a-1",
    "submissions": 1,
-   "published_at": "2026-11-09T18:05:01Z",
-   "title": "Balanced sampling",
+   "published_at": "2026-11-10T03:11:28Z",
+   "title": "starter recipe",
    "problem": "still training"
   }
  ],
@@ -597,6 +615,24 @@
    "image_size": 320
   },
   {
+   "nick": "Lumi",
+   "tag": "track-b-4",
+   "submissions": 4,
+   "published_at": "2026-11-10T09:49:39Z",
+   "title": "MobileNetV3-Large at 512 (same as track-b-2)",
+   "score": 0.4319,
+   "per_city": {
+    "seoul": 0.729,
+    "busan": 0.275,
+    "tokyo": 0.734,
+    "osaka": 0.28,
+    "taipei": 0.14
+   },
+   "gmacs": 1.113,
+   "parameters": 4196243,
+   "image_size": 512
+  },
+  {
    "nick": "Stroopwafel-Seoul",
    "tag": "track-b-3",
    "submissions": 2,
@@ -685,24 +721,6 @@
    "gmacs": 1.814,
    "parameters": 11174283,
    "image_size": 224
-  },
-  {
-   "nick": "Lumi",
-   "tag": "track-b-3",
-   "submissions": 3,
-   "published_at": "2026-11-10T09:41:50Z",
-   "title": "MobileNetV3-Large at 512, every city drawn equally often",
-   "score": 0.4174,
-   "per_city": {
-    "seoul": 0.57,
-    "busan": 0.319,
-    "tokyo": 0.768,
-    "osaka": 0.271,
-    "taipei": 0.159
-   },
-   "gmacs": 1.113,
-   "parameters": 4196243,
-   "image_size": 512
   },
   {
    "nick": "clean23",
