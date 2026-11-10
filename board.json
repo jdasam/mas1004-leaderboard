@@ -1,5 +1,5 @@
 {
- "updated": "2026-11-10 17:24 KST",
+ "updated": "2026-11-10 17:35 KST",
  "split": "leaderboard",
  "A": [
   {
@@ -323,6 +323,14 @@
    "published_at": "2026-11-09T15:51:40Z",
    "title": "balanced sampling",
    "problem": "still training"
+  },
+  {
+   "nick": "\ud5c8\ub2c8\uba38\uc2a4\ud0c0\ub4dc",
+   "tag": "track-a-1",
+   "submissions": 1,
+   "published_at": "2026-11-06T07:18:00Z",
+   "title": "starter recipe",
+   "problem": "still training"
   }
  ],
  "B": [
@@ -415,6 +423,24 @@
    "gmacs": 0.853,
    "parameters": 4196243,
    "image_size": 448
+  },
+  {
+   "nick": "0rangg",
+   "tag": "track-b-5",
+   "submissions": 5,
+   "published_at": "2026-11-10T08:29:26Z",
+   "title": "final",
+   "score": 0.4377,
+   "per_city": {
+    "seoul": 0.676,
+    "busan": 0.304,
+    "tokyo": 0.657,
+    "osaka": 0.382,
+    "taipei": 0.169
+   },
+   "gmacs": 0.627,
+   "parameters": 4196243,
+   "image_size": 384
   },
   {
    "nick": "rokafsogang",
@@ -525,24 +551,6 @@
    "image_size": 512
   },
   {
-   "nick": "0rangg",
-   "tag": "track-b-4",
-   "submissions": 4,
-   "published_at": "2026-11-09T13:07:31Z",
-   "title": "V3, 384, b, e, 8e",
-   "score": 0.4242,
-   "per_city": {
-    "seoul": 0.652,
-    "busan": 0.275,
-    "tokyo": 0.763,
-    "osaka": 0.324,
-    "taipei": 0.106
-   },
-   "gmacs": 0.627,
-   "parameters": 4196243,
-   "image_size": 384
-  },
-  {
    "nick": "mas714",
    "tag": "track-b-2",
    "submissions": 2,
@@ -555,6 +563,24 @@
     "tokyo": 0.638,
     "osaka": 0.329,
     "taipei": 0.271
+   },
+   "gmacs": 1.814,
+   "parameters": 11174283,
+   "image_size": 224
+  },
+  {
+   "nick": "SoSleepy",
+   "tag": "track-b-2",
+   "submissions": 2,
+   "published_at": "2026-11-10T08:32:25Z",
+   "title": "ResNet18 at 224, balanced sampling, seed 0",
+   "score": 0.4203,
+   "per_city": {
+    "seoul": 0.623,
+    "busan": 0.309,
+    "tokyo": 0.618,
+    "osaka": 0.3,
+    "taipei": 0.251
    },
    "gmacs": 1.814,
    "parameters": 11174283,
@@ -771,24 +797,6 @@
     "tokyo": 0.662,
     "osaka": 0.227,
     "taipei": 0.251
-   },
-   "gmacs": 1.814,
-   "parameters": 11174283,
-   "image_size": 224
-  },
-  {
-   "nick": "SoSleepy",
-   "tag": "track-b-1",
-   "submissions": 1,
-   "published_at": "2026-11-08T16:22:42Z",
-   "title": "Starter ResNet18 at 224, 4 epochs",
-   "score": 0.3826,
-   "per_city": {
-    "seoul": 0.58,
-    "busan": 0.159,
-    "tokyo": 0.705,
-    "osaka": 0.237,
-    "taipei": 0.232
    },
    "gmacs": 1.814,
    "parameters": 11174283,
