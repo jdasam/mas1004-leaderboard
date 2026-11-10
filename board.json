@@ -1,5 +1,5 @@
 {
- "updated": "2026-11-10 19:55 KST",
+ "updated": "2026-11-10 20:05 KST",
  "split": "leaderboard",
  "A": [
   {
@@ -55,6 +55,24 @@
     "taipei": 0.25766666666666665
    },
    "val": 0.5083666666666667
+  },
+  {
+   "nick": "sunogi",
+   "tag": "track-a-2",
+   "submissions": 1,
+   "published_at": "2026-11-10T07:11:30Z",
+   "title": "balanced cities + dropped 98 non-street photos",
+   "score": 0.41609999999999997,
+   "low": 0.4126,
+   "high": 0.4193,
+   "per_city": {
+    "seoul": 0.5863333333333333,
+    "busan": 0.2833333333333333,
+    "tokyo": 0.6506666666666666,
+    "osaka": 0.2833333333333333,
+    "taipei": 0.2773333333333334
+   },
+   "val": 0.4988666666666666
   },
   {
    "nick": "FamishedRook871",
@@ -458,14 +476,6 @@
    "submissions": 8,
    "published_at": "2026-11-10T01:16:37Z",
    "title": "s2v",
-   "problem": "still training"
-  },
-  {
-   "nick": "sunogi",
-   "tag": "track-a-2",
-   "submissions": 1,
-   "published_at": "2026-11-10T07:11:30Z",
-   "title": "balanced cities + dropped 98 non-street photos",
    "problem": "still training"
   }
  ],
