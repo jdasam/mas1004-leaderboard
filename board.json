@@ -1,5 +1,5 @@
 {
- "updated": "2026-11-10 21:52 KST",
+ "updated": "2026-11-10 22:01 KST",
  "split": "leaderboard",
  "A": [
   {
@@ -199,6 +199,24 @@
     "taipei": 0.25433333333333336
    },
    "val": 0.5053333333333333
+  },
+  {
+   "nick": "NOWHEREMAN",
+   "tag": "track-a-12",
+   "submissions": 11,
+   "published_at": "2026-11-10T12:36:39Z",
+   "title": "s2v",
+   "score": 0.4106666666666667,
+   "low": 0.3952,
+   "high": 0.4213,
+   "per_city": {
+    "seoul": 0.5926666666666667,
+    "busan": 0.25633333333333336,
+    "tokyo": 0.649,
+    "osaka": 0.2946666666666667,
+    "taipei": 0.261
+   },
+   "val": 0.5055666666666666
   },
   {
    "nick": "SoSleepy",
@@ -435,24 +453,6 @@
    "val": 0.49900000000000005
   },
   {
-   "nick": "ogmti",
-   "tag": "track-a-1",
-   "submissions": 1,
-   "published_at": "2026-11-10T03:11:28Z",
-   "title": "starter recipe",
-   "score": 0.3932,
-   "low": 0.3845,
-   "high": 0.4019,
-   "per_city": {
-    "seoul": 0.6393333333333334,
-    "busan": 0.169,
-    "tokyo": 0.694,
-    "osaka": 0.256,
-    "taipei": 0.20766666666666667
-   },
-   "val": 0.4955
-  },
-  {
    "nick": "marajowa",
    "tag": "track-a-1",
    "submissions": 1,
@@ -507,11 +507,11 @@
    "val": 0.49713333333333337
   },
   {
-   "nick": "NOWHEREMAN",
-   "tag": "track-a-12",
-   "submissions": 11,
-   "published_at": "2026-11-10T12:36:39Z",
-   "title": "s2v",
+   "nick": "ogmti",
+   "tag": "track-a-2",
+   "submissions": 2,
+   "published_at": "2026-11-10T12:47:41Z",
+   "title": "balanced sampling",
    "problem": "still training"
   }
  ],
