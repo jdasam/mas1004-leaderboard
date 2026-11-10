@@ -1,5 +1,5 @@
 {
- "updated": "2026-11-10 17:04 KST",
+ "updated": "2026-11-10 17:14 KST",
  "split": "leaderboard",
  "A": [
   {
@@ -219,6 +219,24 @@
    "val": 0.5090666666666667
   },
   {
+   "nick": "Kinz123",
+   "tag": "track-a-2",
+   "submissions": 1,
+   "published_at": "2026-11-05T13:25:47Z",
+   "title": "balanced",
+   "score": 0.40323333333333333,
+   "low": 0.3894,
+   "high": 0.4222,
+   "per_city": {
+    "seoul": 0.5553333333333333,
+    "busan": 0.26266666666666666,
+    "tokyo": 0.633,
+    "osaka": 0.29133333333333333,
+    "taipei": 0.27366666666666667
+   },
+   "val": 0.5019
+  },
+  {
    "nick": "West Coast Love",
    "tag": "track-a-1",
    "submissions": 1,
@@ -289,11 +307,11 @@
    "problem": "still training"
   },
   {
-   "nick": "Kinz123",
-   "tag": "track-a-2",
+   "nick": "clean23",
+   "tag": "track-a-1",
    "submissions": 1,
-   "published_at": "2026-11-05T13:25:47Z",
-   "title": "balanced",
+   "published_at": "2026-11-06T03:32:49Z",
+   "title": "starter recipe, baseline",
    "problem": "still training"
   }
  ],
