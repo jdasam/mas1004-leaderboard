@@ -1,5 +1,5 @@
 {
- "updated": "2026-11-10 17:54 KST",
+ "updated": "2026-11-10 18:04 KST",
  "split": "leaderboard",
  "A": [
   {
@@ -358,6 +358,14 @@
    "submissions": 1,
    "published_at": "2026-11-09T15:51:40Z",
    "title": "balanced sampling",
+   "problem": "still training"
+  },
+  {
+   "nick": "yosam",
+   "tag": "track-a-1",
+   "submissions": 1,
+   "published_at": "2026-11-09T04:51:19Z",
+   "title": "starter recipe",
    "problem": "still training"
   }
  ],
