@@ -1,5 +1,5 @@
 {
- "updated": "2026-11-10 21:42 KST",
+ "updated": "2026-11-10 21:52 KST",
  "split": "leaderboard",
  "A": [
   {
@@ -127,24 +127,6 @@
     "taipei": 0.2803333333333333
    },
    "val": 0.5037
-  },
-  {
-   "nick": "NOWHEREMAN",
-   "tag": "track-a-11",
-   "submissions": 10,
-   "published_at": "2026-11-10T12:21:23Z",
-   "title": "clean3",
-   "score": 0.4135,
-   "low": 0.4048,
-   "high": 0.4193,
-   "per_city": {
-    "seoul": 0.604,
-    "busan": 0.2416666666666667,
-    "tokyo": 0.6216666666666667,
-    "osaka": 0.3153333333333333,
-    "taipei": 0.2853333333333334
-   },
-   "val": 0.5082666666666666
   },
   {
    "nick": "Stroopwafel-Seoul",
@@ -523,6 +505,14 @@
     "taipei": 0.23966666666666667
    },
    "val": 0.49713333333333337
+  },
+  {
+   "nick": "NOWHEREMAN",
+   "tag": "track-a-12",
+   "submissions": 11,
+   "published_at": "2026-11-10T12:36:39Z",
+   "title": "s2v",
+   "problem": "still training"
   }
  ],
  "B": [
