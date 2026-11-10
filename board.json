@@ -1,5 +1,5 @@
 {
- "updated": "2026-11-10 20:52 KST",
+ "updated": "2026-11-10 21:04 KST",
  "split": "leaderboard",
  "A": [
   {
@@ -235,6 +235,24 @@
     "taipei": 0.25766666666666665
    },
    "val": 0.5023666666666666
+  },
+  {
+   "nick": "NOWHEREMAN",
+   "tag": "track-a-10",
+   "submissions": 9,
+   "published_at": "2026-11-10T11:07:52Z",
+   "title": "s2v",
+   "score": 0.4061333333333333,
+   "low": 0.4,
+   "high": 0.4116,
+   "per_city": {
+    "seoul": 0.5443333333333333,
+    "busan": 0.26066666666666666,
+    "tokyo": 0.6683333333333333,
+    "osaka": 0.298,
+    "taipei": 0.25933333333333336
+   },
+   "val": 0.5042
   },
   {
    "nick": "\ud5c8\ub2c8\uba38\uc2a4\ud0c0\ub4dc",
@@ -505,14 +523,6 @@
     "taipei": 0.23966666666666667
    },
    "val": 0.49713333333333337
-  },
-  {
-   "nick": "NOWHEREMAN",
-   "tag": "track-a-10",
-   "submissions": 9,
-   "published_at": "2026-11-10T11:07:52Z",
-   "title": "s2v",
-   "problem": "still training"
   }
  ],
  "B": [
@@ -547,6 +557,24 @@
     "tokyo": 0.705,
     "osaka": 0.401,
     "taipei": 0.232
+   },
+   "gmacs": 0.853,
+   "parameters": 4196243,
+   "image_size": 448
+  },
+  {
+   "nick": "SoSleepy",
+   "tag": "track-b-3",
+   "submissions": 3,
+   "published_at": "2026-11-10T12:00:46Z",
+   "title": "MobileNetV3-Large at 448, balanced sampling",
+   "score": 0.4502,
+   "per_city": {
+    "seoul": 0.638,
+    "busan": 0.304,
+    "tokyo": 0.763,
+    "osaka": 0.348,
+    "taipei": 0.198
    },
    "gmacs": 0.853,
    "parameters": 4196243,
@@ -763,24 +791,6 @@
     "tokyo": 0.638,
     "osaka": 0.329,
     "taipei": 0.271
-   },
-   "gmacs": 1.814,
-   "parameters": 11174283,
-   "image_size": 224
-  },
-  {
-   "nick": "SoSleepy",
-   "tag": "track-b-2",
-   "submissions": 2,
-   "published_at": "2026-11-10T08:32:25Z",
-   "title": "ResNet18 at 224, balanced sampling, seed 0",
-   "score": 0.4203,
-   "per_city": {
-    "seoul": 0.623,
-    "busan": 0.309,
-    "tokyo": 0.618,
-    "osaka": 0.3,
-    "taipei": 0.251
    },
    "gmacs": 1.814,
    "parameters": 11174283,
