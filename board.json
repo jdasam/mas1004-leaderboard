@@ -1,5 +1,5 @@
 {
- "updated": "2026-11-10 19:03 KST",
+ "updated": "2026-11-10 19:14 KST",
  "split": "leaderboard",
  "A": [
   {
@@ -440,6 +440,14 @@
    "submissions": 8,
    "published_at": "2026-11-10T01:16:37Z",
    "title": "s2v",
+   "problem": "still training"
+  },
+  {
+   "nick": "veutetre",
+   "tag": "track-a-2",
+   "submissions": 1,
+   "published_at": "2026-11-10T04:43:54Z",
+   "title": "Equal city sampling",
    "problem": "still training"
   }
  ],
