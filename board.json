@@ -1,5 +1,5 @@
 {
- "updated": "2026-11-10 20:24 KST",
+ "updated": "2026-11-10 20:33 KST",
  "split": "leaderboard",
  "A": [
   {
@@ -453,6 +453,24 @@
    "val": 0.4955
   },
   {
+   "nick": "marajowa",
+   "tag": "track-a-1",
+   "submissions": 1,
+   "published_at": "2026-11-10T08:11:26Z",
+   "title": "starter recipe",
+   "score": 0.3929,
+   "low": 0.3758,
+   "high": 0.4029,
+   "per_city": {
+    "seoul": 0.6136666666666667,
+    "busan": 0.169,
+    "tokyo": 0.7016666666666667,
+    "osaka": 0.256,
+    "taipei": 0.22366666666666668
+   },
+   "val": 0.4979333333333333
+  },
+  {
    "nick": "rokafsogang",
    "tag": "track-a-3",
    "submissions": 1,
@@ -494,14 +512,6 @@
    "submissions": 8,
    "published_at": "2026-11-10T01:16:37Z",
    "title": "s2v",
-   "problem": "still training"
-  },
-  {
-   "nick": "marajowa",
-   "tag": "track-a-1",
-   "submissions": 1,
-   "published_at": "2026-11-10T08:11:26Z",
-   "title": "starter recipe",
    "problem": "still training"
   }
  ],
