@@ -1,5 +1,5 @@
 {
- "updated": "2026-11-10 21:04 KST",
+ "updated": "2026-11-10 21:16 KST",
  "split": "leaderboard",
  "A": [
   {
@@ -399,24 +399,6 @@
    "val": 0.5049333333333333
   },
   {
-   "nick": "Demogom",
-   "tag": "track-a-3",
-   "submissions": 3,
-   "published_at": "2026-11-10T01:39:45Z",
-   "title": "starter recipe again: the moving average helped validation but not the leaderboard",
-   "score": 0.3980333333333333,
-   "low": 0.3758,
-   "high": 0.4164,
-   "per_city": {
-    "seoul": 0.6186666666666666,
-    "busan": 0.17400000000000002,
-    "tokyo": 0.694,
-    "osaka": 0.26233333333333336,
-    "taipei": 0.24133333333333332
-   },
-   "val": 0.4962
-  },
-  {
    "nick": "West Coast Love",
    "tag": "track-a-2",
    "submissions": 2,
@@ -523,6 +505,14 @@
     "taipei": 0.23966666666666667
    },
    "val": 0.49713333333333337
+  },
+  {
+   "nick": "Demogom",
+   "tag": "track-a-4",
+   "submissions": 4,
+   "published_at": "2026-11-10T11:59:03Z",
+   "title": "city bias fixed at the end: 0.5098 validation, +0.011 over the starter",
+   "problem": "still training"
   }
  ],
  "B": [
