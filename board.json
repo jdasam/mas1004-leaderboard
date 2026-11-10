@@ -1,5 +1,5 @@
 {
- "updated": "2026-11-10 18:33 KST",
+ "updated": "2026-11-10 18:43 KST",
  "split": "leaderboard",
  "A": [
   {
@@ -405,6 +405,14 @@
    "published_at": "2026-11-10T01:16:37Z",
    "title": "s2v",
    "problem": "still training"
+  },
+  {
+   "nick": "SoSleepy",
+   "tag": "track-a-2",
+   "submissions": 1,
+   "published_at": "2026-11-09T18:05:01Z",
+   "title": "Balanced sampling",
+   "problem": "still training"
   }
  ],
  "B": [
@@ -589,24 +597,6 @@
    "image_size": 320
   },
   {
-   "nick": "Lumi",
-   "tag": "track-b-2",
-   "submissions": 2,
-   "published_at": "2026-11-10T05:39:24Z",
-   "title": "MobileNetV3-Large at 512",
-   "score": 0.4319,
-   "per_city": {
-    "seoul": 0.729,
-    "busan": 0.275,
-    "tokyo": 0.734,
-    "osaka": 0.28,
-    "taipei": 0.14
-   },
-   "gmacs": 1.113,
-   "parameters": 4196243,
-   "image_size": 512
-  },
-  {
    "nick": "Stroopwafel-Seoul",
    "tag": "track-b-3",
    "submissions": 2,
@@ -695,6 +685,24 @@
    "gmacs": 1.814,
    "parameters": 11174283,
    "image_size": 224
+  },
+  {
+   "nick": "Lumi",
+   "tag": "track-b-3",
+   "submissions": 3,
+   "published_at": "2026-11-10T09:41:50Z",
+   "title": "MobileNetV3-Large at 512, every city drawn equally often",
+   "score": 0.4174,
+   "per_city": {
+    "seoul": 0.57,
+    "busan": 0.319,
+    "tokyo": 0.768,
+    "osaka": 0.271,
+    "taipei": 0.159
+   },
+   "gmacs": 1.113,
+   "parameters": 4196243,
+   "image_size": 512
   },
   {
    "nick": "clean23",
