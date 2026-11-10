@@ -1,5 +1,5 @@
 {
- "updated": "2026-11-10 18:13 KST",
+ "updated": "2026-11-10 18:23 KST",
  "split": "leaderboard",
  "A": [
   {
@@ -327,6 +327,24 @@
    "val": 0.49900000000000005
   },
   {
+   "nick": "rokafsogang",
+   "tag": "track-a-3",
+   "submissions": 1,
+   "published_at": "2026-11-09T11:58:28Z",
+   "title": "balanced + dropped 115 suspect photos",
+   "score": 0.3922666666666667,
+   "low": 0.3739,
+   "high": 0.4019,
+   "per_city": {
+    "seoul": 0.5830000000000001,
+    "busan": 0.21733333333333335,
+    "tokyo": 0.6083333333333333,
+    "osaka": 0.311,
+    "taipei": 0.24166666666666667
+   },
+   "val": 0.5055999999999999
+  },
+  {
    "nick": "clean23",
    "tag": "track-a-1",
    "submissions": 1,
@@ -376,14 +394,6 @@
    "submissions": 1,
    "published_at": "2026-11-09T15:51:40Z",
    "title": "balanced sampling",
-   "problem": "still training"
-  },
-  {
-   "nick": "rokafsogang",
-   "tag": "track-a-3",
-   "submissions": 1,
-   "published_at": "2026-11-09T11:58:28Z",
-   "title": "balanced + dropped 115 suspect photos",
    "problem": "still training"
   }
  ],
