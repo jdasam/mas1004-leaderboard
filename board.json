@@ -1,5 +1,5 @@
 {
- "updated": "2026-11-10 20:05 KST",
+ "updated": "2026-11-10 20:14 KST",
  "split": "leaderboard",
  "A": [
   {
@@ -476,6 +476,14 @@
    "submissions": 8,
    "published_at": "2026-11-10T01:16:37Z",
    "title": "s2v",
+   "problem": "still training"
+  },
+  {
+   "nick": "haey",
+   "tag": "track-a-2",
+   "submissions": 1,
+   "published_at": "2026-11-10T08:09:27Z",
+   "title": "starter recipe with selection",
    "problem": "still training"
   }
  ],
