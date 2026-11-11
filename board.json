@@ -1,5 +1,5 @@
 {
- "updated": "2026-11-10 22:11 KST",
+ "updated": "2026-11-12 00:16 KST",
  "split": "leaderboard",
  "A": [
   {
@@ -255,6 +255,24 @@
    "val": 0.5022333333333333
   },
   {
+   "nick": "alfzm",
+   "tag": "track-a-4",
+   "submissions": 3,
+   "published_at": "2026-11-10T13:27:59Z",
+   "title": "\uc2e4\ub0b4 \uc81c\uc678 + \ub3c4\uc2dc \uade0\ud615 \uc0d8\ud50c\ub9c1",
+   "score": 0.41029999999999994,
+   "low": 0.4029,
+   "high": 0.4145,
+   "per_city": {
+    "seoul": 0.5876666666666667,
+    "busan": 0.272,
+    "tokyo": 0.6586666666666666,
+    "osaka": 0.285,
+    "taipei": 0.248
+   },
+   "val": 0.5025333333333334
+  },
+  {
    "nick": "mas714",
    "tag": "track-a-2",
    "submissions": 2,
@@ -325,24 +343,6 @@
     "taipei": 0.237
    },
    "val": 0.49889999999999995
-  },
-  {
-   "nick": "alfzm",
-   "tag": "track-a-3",
-   "submissions": 2,
-   "published_at": "2026-11-04T12:41:31Z",
-   "title": "\uc2e4\ub0b4 \ub77c\ubca8\ub9cc \uc81c\uc678, \uc88c\uc6b0\ubc18\uc804 \uc720\uc9c0, weight decay 0.1",
-   "score": 0.4035333333333333,
-   "low": 0.3942,
-   "high": 0.4203,
-   "per_city": {
-    "seoul": 0.6313333333333334,
-    "busan": 0.21233333333333335,
-    "tokyo": 0.7166666666666667,
-    "osaka": 0.248,
-    "taipei": 0.20933333333333334
-   },
-   "val": 0.49160000000000004
   },
   {
    "nick": "uia99",
@@ -797,6 +797,24 @@
    "image_size": 224
   },
   {
+   "nick": "alfzm",
+   "tag": "track-b-2",
+   "submissions": 2,
+   "published_at": "2026-11-10T13:14:20Z",
+   "title": "MobileNetV3-Large 512 + \uade0\ud615 \uc0d8\ud50c\ub9c1",
+   "score": 0.4213,
+   "per_city": {
+    "seoul": 0.609,
+    "busan": 0.309,
+    "tokyo": 0.739,
+    "osaka": 0.29,
+    "taipei": 0.159
+   },
+   "gmacs": 1.113,
+   "parameters": 4196243,
+   "image_size": 512
+  },
+  {
    "nick": "sunogi",
    "tag": "track-b-2",
    "submissions": 1,
@@ -989,24 +1007,6 @@
     "tokyo": 0.749,
     "osaka": 0.237,
     "taipei": 0.198
-   },
-   "gmacs": 1.814,
-   "parameters": 11174283,
-   "image_size": 224
-  },
-  {
-   "nick": "alfzm",
-   "tag": "track-b-1",
-   "submissions": 1,
-   "published_at": "2026-11-09T14:34:32Z",
-   "title": "starter model",
-   "score": 0.3874,
-   "per_city": {
-    "seoul": 0.633,
-    "busan": 0.164,
-    "tokyo": 0.662,
-    "osaka": 0.227,
-    "taipei": 0.251
    },
    "gmacs": 1.814,
    "parameters": 11174283,
